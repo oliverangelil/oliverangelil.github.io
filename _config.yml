@@ -9,12 +9,12 @@ description: >
 email: hergernadja@gmail.com
 author: Nadja Herger
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: Hi there!
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:hergernadja@gmail.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  GitHub: "https://github.com/nherger"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
