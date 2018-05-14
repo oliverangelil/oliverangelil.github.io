@@ -1,5 +1,5 @@
 # Site settings
-title: Nadja's Blog
+title: Nadja Herger
 url: "http://nherger.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/blog" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 description: >
@@ -9,7 +9,7 @@ description: >
 email: hergernadja@gmail.com
 author: Nadja Herger
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: Hi there!
+profile: Hi there! Some info about me...
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
