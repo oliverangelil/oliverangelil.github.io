@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Here is a list of peer-reviewed publications I lead or contributed to:
+Here is a list of peer-reviewed scientific publications I lead or contributed to:
 
 * Lorenz, R., **Herger, N.**, Sedláček, J., Eyring, V., Fischer, E. M., & Knutti, R (2018). Prospects and caveats of weighting climate models for summer maximum temperature projections over North America. Journal of Geophysical Research: Atmospheres.
 * Ukkola, A. M., Pitman, A. J., De Kauwe, M. G., Abramowitz, G., **Herger, N.**, Evans, J. P., & Decker, M. (2018). Evaluating CMIP5 model agreement for multiple drought metrics. Journal of Hydrometeorology.
