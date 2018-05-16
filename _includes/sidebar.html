@@ -4,13 +4,13 @@
   <p>{{ site.profile }}</p>
   <p class="contact">
     {% if site.github_username %}
-    <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+    <a href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a>
     {% endif %}
     {% if site.twitter_username %}
-    <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+    <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>
     {% endif %}
     {% for link in site.profile_links %}
-    <a href="{{ link | last }}">{{ link | first }}</a>
+    <a href="{{ link | last }}" target="_blank">{{ link | first }}</a>
     {% endfor %}
   </p>
 </div>
