@@ -14,4 +14,4 @@ Here is a list of peer-reviewed scientific publications I lead or contributed to
 * Storelvmo, T., & **Herger, N.** (2014). Cirrus cloud susceptibility to the injection of ice nuclei in the upper troposphere. Journal of Geophysical Research: Atmospheres, 119(5), 2375-2389.
 
 
-You can find the full list on [Google Scholar](https://scholar.google.com.au/citations?user=pY9LckMAAAAJ&hl=en "Publications").
+You can find the full list on [Google Scholar](https://scholar.google.com.au/citations?user=pY9LckMAAAAJ&hl=en/?target=_blank "Publications").
