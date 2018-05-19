@@ -17,13 +17,13 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$color-link: #006396; // #036
+$color-link: #005dba; // #036
 $color-link-hover: #069;
 
 $header-bg: #000000; // #607D8B
 $header-bg-hover: #666666; // #78909C
 $header-link: #CFD8DC;
-$header-fg: #FFF;
+$header-fg: #ffffff; // #FFF
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
