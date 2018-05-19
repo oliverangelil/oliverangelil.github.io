@@ -7,15 +7,14 @@ permalink: /posts/2
 image: "https://github.com/nherger/blog/blob/gh-pages/photos/template.png?raw=true"
 ---
 
-This is article 2.
+I attended my first hackathon (#Hack4MentalHealth) in February 2018.
 
-![](http://lorempixel.com/400/200/)
+<!--more-->
 
-# Lorem ipsum dolor 
+The hackathon was on the topic of mental health, organised by <a href="https://www.humanitix.com/event/vibewire-hack-for-mental-health-hack4mentalhealth/" target="_blank">Vibewire</a>. It was overall a very fun event and our team managed to win the joint 2nd place.
 
-Sit amet, consectetur adipiscing elit. Phasellus nisi odio, scelerisque vitae volutpat non, facilisis non erat. In gravida placerat pulvinar. Maecenas ac pretium sem. In consectetur nulla leo, ut maximus nisi volutpat eget. Vestibulum vitae malesuada risus, egestas placerat felis. In sed sollicitudin elit. Sed bibendum porttitor dui.
+Over the course of two days, our team (Sonify) came up with a way to increase awareness of mental health issue. We tried to make data/stats around mental health more readily available to a broader audience. This was accomplished via music, which is a universal language that also impacts people's emotions. As a demo we created a short clip based on suicide rates in NSW, which are larger in rural areas compared to the city. On an imaginary road trip along the coast from the south end to the north end of NSW the instruments in the song increase in quantity, volume and force with increasing suicide rate. This idea is targeted to organisations and the general public. Interested people can then get more information about specific mental health issues via QR codes on posters or by using the shazam app.
 
-## Condimentum mauris Accumsan 
+Our final product can be found on <a href="https://www.youtube.com/watch?v=HRkSwguKhbg" target="_blank">youtube</a> and you can access our pitch presentation <a href="https://docs.google.com/presentation/d/1v-YKx3STMc3ceiqyRkCVGkmxfN76NW_losVXgUa1Hf4/edit#slide=id.p3" target="_blank">here</a>.
 
-Eu. Suspendisse scelerisque, orci vel elementum accumsan, sem turpis congue justo, et vulputate lacus orci vel felis. Pellentesque at gravida felis, vitae pretium erat. Pellentesque convallis mi vitae lectus semper, quis pellentesque lectus tristique.
-
+![Team Sonify](https://github.com/nherger/blog/blob/gh-pages/photos/TeamSonify.JPG?raw=true)
