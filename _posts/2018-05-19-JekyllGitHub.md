@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up Jekyll on GitHub Pages"
-date:   2018-05-20 07:25:17
+date:   2018-05-19 06:25:17
 categories: website blog jekyll github
 permalink: /posts/5
 image: "https://github.com/nherger/blog/blob/gh-pages/photos/JekyllGitHub.png?raw=true"
