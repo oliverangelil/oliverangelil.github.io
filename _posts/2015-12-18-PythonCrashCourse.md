@@ -4,10 +4,10 @@ title:  "Python for Climate Scientists"
 date:   2015-12-18 09:00:13
 categories: python climate science
 permalink: /posts/3
-image: "https://github.com/nherger/blog/blob/gh-pages/photos/CrashCourse.jpg?raw=true"
+image: "https://github.com/nherger/blog/blob/gh-pages/photos/CrashCourse_banner.jpg?raw=true"
 ---
 
-Oliver Angélil and I created a Python crash course for climate scientists.
+My partner Oliver Angélil and I created a Python crash course for climate scientists.
 
 <!--more-->
 

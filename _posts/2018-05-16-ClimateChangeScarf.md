@@ -4,7 +4,7 @@ title:  "Climate Change Scarf"
 date:   2018-05-16 09:00:13
 categories: knitting scarf
 permalink: /posts/1
-image: "https://github.com/nherger/blog/blob/gh-pages/photos/CCScarf.JPG?raw=true"
+image: "https://github.com/nherger/blog/blob/gh-pages/photos/CCScarf_banner.JPG?raw=true"
 ---
 
 I recently took up knitting as a hobby and as a first project I decided to knit a climate change scarf.
