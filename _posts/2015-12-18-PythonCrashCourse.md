@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python for Climate Scientists"
-date:   2018-05-16 09:00:13
+date:   2015-12-18 09:00:13
 categories: python climate science
 permalink: /posts/3
 image: "https://github.com/nherger/blog/blob/gh-pages/photos/CrashCourse.jpg?raw=true"
