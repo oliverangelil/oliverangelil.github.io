@@ -4,7 +4,7 @@ title:  "Setting up Jekyll on GitHub Pages"
 date:   2018-05-19 06:25:17
 categories: website blog jekyll github
 permalink: /posts/5
-image: "https://github.com/nherger/blog/blob/gh-pages/photos/JekyllGitHub.png?raw=true"
+image: "https://github.com/nherger/blog/blob/gh-pages/photos/JekyllGitHub_banner.png?raw=true"
 ---
 
 This blog is hosted on [GitHub Page](https://pages.github.com/) and built based on the static site generator [Jekyll](https://jekyllrb.com/). Here, I give a brief overview on how this can be set up.

@@ -12,3 +12,9 @@ This is article 4.
 <!--more-->
 
 Fill this article with more text...
+
+
+![In- and out-of-sample](https://github.com/nherger/blog/blob/gh-pages/photos/InOutSample.png?raw=true)
+
+
+![Model-as-truth](https://github.com/nherger/blog/blob/gh-pages/photos/ModelAsTruth.png?raw=true)
