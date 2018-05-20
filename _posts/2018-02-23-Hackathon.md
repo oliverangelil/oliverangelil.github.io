@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hackathon"
-date:   1974-01-01 08:00
+date:   2018-03-23 08:00
 categories: jekyll
 permalink: /posts/2
 image: "https://github.com/nherger/blog/blob/gh-pages/photos/SonifyBanner.JPG?raw=true"
