@@ -7,14 +7,14 @@ permalink: /posts/4
 image: "https://github.com/nherger/blog/blob/gh-pages/photos/ModelAsTruth_banner.png?raw=true"
 ---
 
-This is article 4.
+Just as in statistical learning, out-of-sample testing in climate science is essential.
 
 <!--more-->
 
-Fill this article with more text...
 
-
+Here is a schematic of in- and out-of-sample skill:
 ![In- and out-of-sample](https://github.com/nherger/blog/blob/gh-pages/photos/InOutSample.png?raw=true)
 
 
+Here is a schematic of how model-as-truth experiments are set up:
 ![Model-as-truth](https://github.com/nherger/blog/blob/gh-pages/photos/ModelAsTruth.png?raw=true)
