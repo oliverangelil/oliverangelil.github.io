@@ -11,7 +11,7 @@ This post discusses model-as-truth experiments (to gauge the skill of a calibrat
 
 <!--more-->
 
-An important part of my PhD is the optimal selection of a subset of climate models from the original pool of models. It is essentially a calibration process with binary weights, where we either include a climate model in the subset or we don't. Similar to the supervised machine learning framework, the calibration is done *in-sample* relative to some given truth by minimising a cost function. Once we identify a subset of climate models, we need to test it *out-of-sample*, based on data we have not used in the calibration process.
+An important part of my PhD is the optimal selection of a subset of climate models from the original pool of models (e.g. the multi-model ensemble part of [CMIP5](https://pcmdi.llnl.gov/mips/cmip5/)). It is essentially a calibration process with binary weights, where we either include a climate model in the subset or we don't. Similar to the supervised machine learning framework, the calibration is done *in-sample* relative to some given truth by minimising a cost function. Once we identify a subset of climate models, we need to test it *out-of-sample*, based on data we have not used in the calibration process.
 
 Here is a simplified schematic that illustrates this process of calibrating in-sample and testing the subset out-of-sample.
 ![In- and out-of-sample](https://github.com/nherger/blog/blob/gh-pages/photos/InOutSample_v2.png?raw=true)
