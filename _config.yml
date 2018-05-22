@@ -1,7 +1,7 @@
 # Site settings
 title: Nadja Herger
 url: "http://nherger.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/blog" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 description: >
   This is Nadja Herger's personal blog.
 
@@ -9,7 +9,7 @@ description: >
 email: hergernadja@gmail.com
 author: Nadja Herger
 avatar: "https://github.com/nherger/blog/blob/gh-pages/photos/portrait.jpg?raw=true"  #"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: Hi there! I'm Nadja from Switzerland, currently living in Australia.
+profile: Hi! I'm Nadja from Switzerland, currently living in Australia.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
