@@ -4,7 +4,7 @@ title:  "Hackathon"
 date:   2018-03-23 08:00
 categories: jekyll
 permalink: /posts/2
-image: "https://github.com/nherger/blog/blob/gh-pages/photos/Sonify_banner.JPG?raw=true"
+image: "https://github.com/nherger/nherger.github.io/blob/master/photos/Sonify_banner.JPG?raw=true"
 ---
 
 I attended my first hackathon (#Hack4MentalHealth) in February 2018.
@@ -19,4 +19,4 @@ Our code is based on <a href="https://datadrivendj.com/tracks/subway/" target="_
 
 Our final product can be found on <a href="https://www.youtube.com/watch?v=HRkSwguKhbg" target="_blank">youtube</a> and you can access our pitch presentation <a href="https://docs.google.com/presentation/d/1v-YKx3STMc3ceiqyRkCVGkmxfN76NW_losVXgUa1Hf4/edit#slide=id.p3" target="_blank">here</a>.
 
-![Team Sonify](https://github.com/nherger/blog/blob/gh-pages/photos/TeamSonify.JPG?raw=true)
+![Team Sonify](https://github.com/nherger/nherger.github.io/blob/master/photos/TeamSonify.JPG?raw=true)

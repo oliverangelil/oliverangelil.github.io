@@ -4,7 +4,7 @@ title:  "Climate Change Scarf"
 date:   2018-05-16 09:00:13
 categories: knitting scarf
 permalink: /posts/1
-image: "https://github.com/nherger/blog/blob/gh-pages/photos/CCScarf_banner.JPG?raw=true"
+image: "https://github.com/nherger/nherger.github.io/blob/master/photos/CCScarf_banner.JPG?raw=true"
 ---
 
 I recently took up knitting as a hobby and as a first project I decided to knit a "climate change scarf".
@@ -19,4 +19,4 @@ If you would like to reproduce the exact same scarf, I used the ESTHER 8ply yarn
 
 A photo of the scarf is shown below (volcanic eruptions are listed on top).
 
-![Climate Change Scarf](https://github.com/nherger/blog/blob/gh-pages/photos/Scarf_timeseries_years.JPG?raw=true)
+![Climate Change Scarf](https://github.com/nherger/nherger.github.io/blob/master/photos/Scarf_timeseries_years.JPG?raw=true)
