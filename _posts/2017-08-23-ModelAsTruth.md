@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Out-of-Sample Testing in Climate Science"
-date:   2018-05-19 09:06:13
+date:   2018-08-23 09:06:18
 categories: climate science out-of-sample model-as-truth
 permalink: /posts/4
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/ModelAsTruth_banner.png?raw=true"
