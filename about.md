@@ -10,4 +10,6 @@ My PhD focuses on combining global climate model output in a way that their inte
 
 Most of my time is spent analysing and visualising large amounts of high-dimensional data on servers using Python, CDO and bash. Interesting findings are written up and published in [scientific journals](publications.md), where they reach an international audience. I am passionate about data science, visualisation as a tool to communicate findings to a broader audience, statistics to discover and explain patterns in data, as well as to make predictions on unseen data.
 
+In my spare time I enjoy [photography](https://500px.com/nadja_herger), ultimate frisbee and sewing.
+
 You can find my CV <a href="https://www.dropbox.com/s/8f32bib8vxxlp2x/NadjaHerger_CV.pdf?dl=0" target="_blank">here</a>.
