@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nocomments: true 
 ---
 
 I am a PhD candidate in Climate Science at the [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/ccrc-team/students/nadja-herger) at UNSW in Sydney, Australia. Before that, I completed both my Bachelor’s and Master’s degrees at ETH Zürich in Environmental Sciences, specialising in Climate Science.

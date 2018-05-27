@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+nocomments: true
 ---
 
 Here is a list of peer-reviewed scientific publications I lead or contributed to:
