@@ -3,7 +3,7 @@ layout: post
 title:  "Climate Change Scarf"
 date:   2018-04-13 09:00:13
 categories: knitting scarf
-permalink: /posts/1
+permalink: /posts/climate-change-scarf
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/CCScarf_banner.JPG?raw=true"
 ---
 

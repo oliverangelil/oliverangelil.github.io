@@ -3,7 +3,7 @@ layout: post
 title:  "Setting up Jekyll on GitHub Pages"
 date:   2017-08-23 06:25:17
 categories: website blog jekyll github
-permalink: /posts/5
+permalink: /posts/jekyll-github
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/JekyllGitHub_banner.png?raw=true"
 ---
 

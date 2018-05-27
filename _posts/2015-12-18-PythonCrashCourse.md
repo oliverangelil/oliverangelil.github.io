@@ -3,7 +3,7 @@ layout: post
 title:  "Python for Climate Scientists"
 date:   2015-12-18 09:00:13
 categories: python climate science
-permalink: /posts/3
+permalink: /posts/crash-course
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/CrashCourse_banner.jpg?raw=true"
 ---
 

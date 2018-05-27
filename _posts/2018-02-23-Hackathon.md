@@ -3,7 +3,7 @@ layout: post
 title:  "Hackathon"
 date:   2018-03-23 08:00
 categories: jekyll
-permalink: /posts/2
+permalink: /posts/hackathon
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/Sonify_banner.JPG?raw=true"
 ---
 
