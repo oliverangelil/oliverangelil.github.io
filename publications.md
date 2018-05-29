@@ -7,7 +7,7 @@ nocomments: true
 
 Here is a list of peer-reviewed scientific publications I lead or contributed to:
 
-* **Herger, N.**, Angélil, O., Abramowitz, G., Donat, M., Stone, D. A., and Lehmann, K. (2018). Calibrating climate model ensembles for assessing extremes in a changing climate. *Journal of Geophysical Research: Atmospheres*.
+* **Herger, N.**, Angélil, O., Abramowitz, G., Donat, M., Stone, D. A., and Lehmann, K. (2018). Calibrating climate model ensembles for assessing extremes in a changing climate. *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2018JD028549.
 * Lorenz, R., **Herger, N.**, Sedláček, J., Eyring, V., Fischer, E. M., and Knutti, R (2018). Prospects and caveats of weighting climate models for summer maximum temperature projections over North America. *Journal of Geophysical Research: Atmospheres*, 123(3), 4509-4526, doi:10.1029/2017JD027992.
 * Ukkola, A. M., Pitman, A. J., De Kauwe, M. G., Abramowitz, G., **Herger, N.**, Evans, J. P., and Decker, M. (2018). Evaluating CMIP5 model agreement for multiple drought metrics. *Journal of Hydrometeorology*, doi:10.1175/JHM-D-17-0099.1.
 * **Herger, N.**, Abramowitz, G., Knutti, R., Angélil, O., Lehmann, K., and Sanderson, B. M. (2018). Selecting a climate model subset to optimise key ensemble properties. *Earth System Dynamics*, 9(1), 135-151, doi:10.5194/esd-9-135-2018. [[PDF]](https://github.com/nherger/nherger.github.io/blob/master/documents/HergerESD2018.pdf)
