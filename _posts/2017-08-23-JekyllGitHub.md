@@ -28,3 +28,22 @@ After you have a local copy of the repo, you need to modify the `_config.yaml` f
 I followed [these steps](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) to preview the changes I made locally before pushing the changes to GitHub Pages. I installed Ruby from source based on [these steps](https://www.ruby-lang.org/en/documentation/installation/#building-from-source).
 To run the Jekyll site locally, you then have to execute `bundle exec jekyll serve` and preview your local site in your web browser at `http://localhost:4000`.
 Alternatively, have a look at [this blog post](http://kbroman.org/simple_site/pages/local_test.html) which explains the route via the *github-pages gem*.
+
+# Setting up Google Analytics
+Go to your [Google Analytics](https://analytics.google.com/analytics/web/) profile and then navigate to Admin > Property > Tracking Info > Tracking Code. You can find your Tracking ID there (should look something like UA-xxxxxxxx-x). Go to your Jekyll site's `_includes` directory and create a new file called `analytics.html`. In this file, paste the Google Analytics tracking code, which you can find on the same page as your Tracking ID. It should look something like this:
+```
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxxxxxxx-x"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-xxxxxxxx-x');
+</script>
+```
+Next, save the file and open your `head.html` file, which should be in the same directory. Paste the following code just before the `</head>` tag: {% include analytics.html %}. You're all set and should now be able to view the visitor traffic on your website via Google Analytics.
+
+
+
+
