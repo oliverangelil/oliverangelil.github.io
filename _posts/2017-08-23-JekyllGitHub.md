@@ -42,7 +42,7 @@ Go to your [Google Analytics](https://analytics.google.com/analytics/web/) profi
   gtag('config', 'UA-xxxxxxxx-x');
 </script>
 ```
-Next, save the file and open your `head.html` file, which should be in the same directory. Paste the following code just before the `</head>` tag: {% include analytics.html %}. You're all set and should now be able to view the visitor traffic on your website via Google Analytics.
+Next, save the file and open your `head.html` file, which should be in the same directory. Paste the following code just before the `</head>` tag: . You're all set and should now be able to view the visitor traffic on your website via Google Analytics.
 
 
 
