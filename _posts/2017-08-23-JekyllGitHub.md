@@ -31,7 +31,7 @@ Alternatively, have a look at [this blog post](http://kbroman.org/simple_site/pa
 
 # Setting up Google Analytics
 Go to your [Google Analytics](https://analytics.google.com/analytics/web/) profile and then navigate to Admin > Property > Tracking Info > Tracking Code. You can find your Tracking ID there (should look something like UA-xxxxxxxx-x). Go to your Jekyll site's `_includes` directory and create a new file called `analytics.html`. In this file, paste the Google Analytics tracking code, which you can find on the same page as your Tracking ID. It should look something like this:
-```
+```html
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxxxxxxx-x"></script>
 <script>
@@ -42,8 +42,7 @@ Go to your [Google Analytics](https://analytics.google.com/analytics/web/) profi
   gtag('config', 'UA-xxxxxxxx-x');
 </script>
 ```
-Next, save the file and open your `head.html` file, which should be in the same directory. Paste the following code just before the `</head>` tag: . You're all set and should now be able to view the visitor traffic on your website via Google Analytics.
-
-
+Next, save the file and open your `head.html` file, which should be in the same directory. Paste the following code just before the `</head>` tag:
+<code><span class="p">{</span><span class="p">%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="na">analytics</span><span class="p">.</span><span class="na">html</span><span class="w"> </span><span class="p">%</span><span class="p">}</span></code>. You're all set and should now be able to view the visitor traffic on your website via Google Analytics.
 
 
