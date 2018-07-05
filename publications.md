@@ -15,5 +15,14 @@ Here is a list of peer-reviewed scientific publications I lead or contributed to
 * Storelvmo, T., Boos, W. R., and **Herger, N.** (2014). Cirrus cloud seeding: a climate engineering mechanism with reduced side effects? *Phil. Trans. R. Soc. A*, 372(2031), 20140116, [doi:10.1098/rsta.2014.0116](http://rsta.royalsocietypublishing.org/content/372/2031/20140116).
 * Storelvmo, T. and **Herger, N.** (2014). Cirrus cloud susceptibility to the injection of ice nuclei in the upper troposphere. *Journal of Geophysical Research: Atmospheres*, 119(5), 2375-2389, [doi:10.1002/2013JD020816](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2013JD020816).
 
+Currently under review:
+* **Herger, N.**, Abramowitz, G, Sherwood, S., Knutti, R., Angélil, O., and Sisson, S. (2018). Constraining future precipitation change over Australia using
+Pareto-optimal estimates. *Climate Dynamics*, under review.
+* Abramowitz, G., **Herger, N.**, Gutmann, E., Hammerling, D., Knutti, R., Leduc, M., Lorenz, R., Pincus, R., and Schmidt, G. A. (2018). Model dependence in multi-model climate ensembles: weighting, sub-selection and out-of-sample testing, *Earth Syst. Dynam. Discuss.*, [doi:10.5194/esd-2018-51](https://www.earth-syst-dynam-discuss.net/esd-2018-51/), under review.
 
 You can find the full list on <a href="https://scholar.google.com.au/citations?user=pY9LckMAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+
+
+
+
+
