@@ -13,4 +13,4 @@ Most of my time is spent analysing and visualising large complex, multi-dimensio
 
 In my spare time I enjoy [photography](https://500px.com/nadja_herger), ultimate frisbee, sewing, and graphic design. I am helping organise the [Women in Data Science Conference](https://www.wids.ch) in Zurich taking place some time in spring 2019.
 
-You can find my CV <a href="https://www.dropbox.com/s/8f32bib8vxxlp2x/NadjaHerger_CV.pdf?dl=0" target="_blank">here</a>. I am currently finishing off my PhD thesis and will return to Switzerland within the next few months to look for an exciting new position in data science.
+You can find my CV <a href="https://www.dropbox.com/s/8f32bib8vxxlp2x/NadjaHerger_CV.pdf?dl=0" target="_blank">here</a>. I handed in my PhD thesis at the beginning of August and expect reviews back after approx. two months. I am back in Switzerland and am currently looking for an exciting new position in data science.
