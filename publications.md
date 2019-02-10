@@ -7,6 +7,7 @@ nocomments: true
 
 Here is a list of peer-reviewed scientific publications I lead or contributed to:
 
+* Abramowitz, G., **Herger, N.**, Gutmann, E., Hammerling, D., Knutti, R., Leduc, M., Lorenz, R., Pincus, R., and Schmidt, G. A. (2018). Model dependence in multi-model climate ensembles: weighting, sub-selection and out-of-sample testing, *Earth System Dynamics*, [doi:10.5194/esd-2018-51](https://www.earth-syst-dynam-discuss.net/esd-2018-51/), accepted.
 * **Herger, N.**, Angélil, O., Abramowitz, G., Donat, M., Stone, D. A., and Lehmann, K. (2018). Calibrating climate model ensembles for assessing extremes in a changing climate. *Journal of Geophysical Research: Atmospheres*, 123(11), 5988-6004, [doi:10.1029/2018JD028549](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028549). [[PDF]](https://github.com/nherger/nherger.github.io/blob/master/documents/HergerJGR2018.pdf)
 * Lorenz, R., **Herger, N.**, Sedláček, J., Eyring, V., Fischer, E. M., and Knutti, R (2018). Prospects and caveats of weighting climate models for summer maximum temperature projections over North America. *Journal of Geophysical Research: Atmospheres*, 123(9), 4509-4526, [doi:10.1029/2017JD027992](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD027992).
 * Ukkola, A. M., Pitman, A. J., De Kauwe, M. G., Abramowitz, G., **Herger, N.**, Evans, J. P., and Decker, M. (2018). Evaluating CMIP5 model agreement for multiple drought metrics. *Journal of Hydrometeorology*, 19(6), 969-988, [doi:10.1175/JHM-D-17-0099.1](https://journals.ametsoc.org/doi/abs/10.1175/JHM-D-17-0099.1).
@@ -18,7 +19,6 @@ Here is a list of peer-reviewed scientific publications I lead or contributed to
 Currently under review:
 * **Herger, N.**, Abramowitz, G, Sherwood, S., Knutti, R., Angélil, O., and Sisson, S. (2018). Constraining future precipitation change over Australia using
 Pareto-optimal estimates. *Climate Dynamics*, under review.
-* Abramowitz, G., **Herger, N.**, Gutmann, E., Hammerling, D., Knutti, R., Leduc, M., Lorenz, R., Pincus, R., and Schmidt, G. A. (2018). Model dependence in multi-model climate ensembles: weighting, sub-selection and out-of-sample testing, *Earth Syst. Dynam. Discuss.*, [doi:10.5194/esd-2018-51](https://www.earth-syst-dynam-discuss.net/esd-2018-51/), under review.
 
 You can find the full list on <a href="https://scholar.google.com.au/citations?user=pY9LckMAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
