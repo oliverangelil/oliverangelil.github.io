@@ -19,4 +19,7 @@ Our code is based on <a href="https://datadrivendj.com/tracks/subway/" target="_
 
 Our final product can be found on <a href="https://www.youtube.com/watch?v=HRkSwguKhbg" target="_blank">youtube</a> and you can access our pitch presentation <a href="https://docs.google.com/presentation/d/1v-YKx3STMc3ceiqyRkCVGkmxfN76NW_losVXgUa1Hf4/edit#slide=id.p3" target="_blank">here</a>.
 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=HRkSwguKhbg" frameborder="0" allowfullscreen></iframe>
+
+
 ![Team Sonify](https://github.com/nherger/nherger.github.io/blob/master/photos/TeamSonify.JPG?raw=true)
