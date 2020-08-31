@@ -17,7 +17,7 @@ Over the course of two days, our team (Sonify) came up with a way to increase aw
 
 Our code is based on <a href="https://datadrivendj.com/tracks/subway/" target="_blank">this idea</a> by Brian Foo, where income inequality on the NYC subway is turned into sound.
 
-Our final product can be found on <a href="https://www.youtube.com/watch?v=HRkSwguKhbg" target="_blank">youtube</a> and you can access our pitch presentation <a href="https://docs.google.com/presentation/d/1v-YKx3STMc3ceiqyRkCVGkmxfN76NW_losVXgUa1Hf4/edit#slide=id.p3" target="_blank">here</a>.
+Our final product can be found <a href="https://www.youtube.com/watch?v=HRkSwguKhbg" target="_blank">below</a> and you can access our pitch presentation <a href="https://docs.google.com/presentation/d/1v-YKx3STMc3ceiqyRkCVGkmxfN76NW_losVXgUa1Hf4/edit#slide=id.p3" target="_blank">here</a>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRkSwguKhbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
