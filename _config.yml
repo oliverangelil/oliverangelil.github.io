@@ -17,7 +17,7 @@ profile_links:
   GitHub: "https://github.com/nherger"
   LinkedIn: "https://www.linkedin.com/in/nadja-herger"
   CV: "https://www.dropbox.com/s/ees8o79ldy0qzgp/NadjaHerger_CV.pdf?dl=0"
-  # You can add more profile links above, or edit _includes/sidebar.html 
+  # You can add more profile links above, or edit _includes/sidebar.html
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
@@ -30,6 +30,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Publications: /publications/
+    Speaking Engagements: /speaking/
 #    Category: /category/
 #    Donate: https://laobubu.net/donate.html
 
@@ -59,5 +60,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
-
-
