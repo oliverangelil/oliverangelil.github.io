@@ -7,7 +7,7 @@ nocomments: true
 
 Here is a list of peer-reviewed scientific publications I lead or contributed to:
 ### 2021
-* Norkute, M., **Herger, N.**, Michalak, L., Mulder, A., and Gao, S. (2021). [Towards Explainable AI: Assessing the Usefulness and Impact of Added Explainability Features in Legal Document Summarization](https://dl.acm.org/doi/10.1145/3411763.3443441). In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems, *CHI EA ’21*, New York, NY, USA. Association for Computing Machinery.
+* Norkute, M., **Herger, N.**, Michalak, L., Mulder, A., and Gao, S. (2021). [Towards Explainable AI: Assessing the Usefulness and Impact of Added Explainability Features in Legal Document Summarization](https://dl.acm.org/doi/10.1145/3411763.3443441). In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems, *CHI EA ’21*, New York, NY, USA. Association for Computing Machinery. [[Preprint]](https://mildanor.github.io/assets/NorkuteXAI.pdf)
 
 ### 2019
 * **Herger, N.**, Abramowitz, G., Sherwood, S., Knutti, R., Angélil, O., and Sisson, S. A. (2019). Ensemble optimisation, multiple constraints and overconfidence: a case study with future Australian precipitation change. *Climate Dynamics*, 53(3), 1581-1596.
