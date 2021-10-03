@@ -16,9 +16,9 @@ I had the pleasure to present at various academic and industry conferences, even
 * [Applied Machine Learning Days (AMLD)](https://appliedmldays.org/); **Nadja Herger**, Nina Hristozova, Andreea Iuga; *Deep Learning Driven Text Summarization and Explainability with Reuters News Data*; 2. March 2021; Virtual.
 
 ### 2020
-* [ODSC West](https://odsc.com/california/); **Nadja Herger**, Nina Hristozova, Viktoriia Samatova; *Deep Learning-Driven Text Summarization & Explainability* (Hands-on NLP workshop); 29. October 2020; Virtual.
-* [NLP Zurich Meetup](https://www.meetup.com/NLP-Zurich); Nina Hristozova and **Nadja Herger**; [webMeetup] *Abstractive Summarization and Explainability for Legal Documents*; 3. November 2020; Virtual; [[event]](https://www.meetup.com/NLP-Zurich/events/273995364/).
 * [NLP Zurich Meetup](https://www.meetup.com/NLP-Zurich); Nina Hristozova, **Nadja Herger**, Andreea Iuga; [webWorkshop] *Text Summarization & Explainability with Reuters News Data*; 28. November 2020; Virtual; [[event]](https://www.meetup.com/NLP-Zurich/events/274414707/).
+* [NLP Zurich Meetup](https://www.meetup.com/NLP-Zurich); Nina Hristozova and **Nadja Herger**; [webMeetup] *Abstractive Summarization and Explainability for Legal Documents*; 3. November 2020; Virtual; [[event]](https://www.meetup.com/NLP-Zurich/events/273995364/).
+* [ODSC West](https://odsc.com/california/); **Nadja Herger**, Nina Hristozova, Viktoriia Samatova; *Deep Learning-Driven Text Summarization & Explainability* (Hands-on NLP workshop); 29. October 2020; Virtual.
 
 ### 2019
 * [Hack’n’Lead 2019](https://www.womenplusplus.ch/hackandlead); **Nadja Herger** and Nina Hristozova; *AI-driven Innovation at Thomson Reuters: applications in legal, tax and news domains*; 2. November 2019; Zurich, Switzerland; [[event]](https://medium.com/womenplusplus/hackn-lead-2019-tech-talks-c78e06a219da); [[aftermovie]](https://www.youtube.com/watch?v=rqUxiwkd5A0&ab_channel=womenplusplus).
