@@ -5,7 +5,7 @@ date:   2015-07-20 09:11:13
 categories: python climate science
 permalink: /posts/blame-humans
 <!-- image: "https://github.com/nherger/nherger.github.io/blob/master/photos/CrashCourse_banner.jpg?raw=true" -->
-image: "https://github.com/nherger/nherger.github.io/blob/master/photos/CrashCourse_banner.jpg?raw=true"
+image: "https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog1_badwater_basin.jpg?raw=true"
 ---
 Considering I'll be working in the field of "extremes attribution" for at least the next few years, I thought it may be worth my while communicating some of what I do on a public platform. I'll attempt to communicate science using non-academic jargon and by keeping my posts entertaining (by using images and analogies for example)! Don't hesitate to comment, critique, or if there's anything you're not getting - ask a question in the box way below.
 
