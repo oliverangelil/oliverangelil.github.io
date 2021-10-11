@@ -6,11 +6,11 @@ nocomments: true
 ---
 
 
-####2020
+#### 2020
 - Garcia-Villada, L., M. Donat, **O. Ang&#233;lil**, A. Taschetto (2020), "Temperature and precipitation responses to El Niño-Southern Oscillation in a hierarchy of datasets with different levels of observational constraints." *Climate Dynamics* [[DOI: 10.1007/s00382-020-05389-x]](https://link.springer.com/article/10.1007%2Fs00382-020-05389-x)
 
 <br>
-####2019
+#### 2019
 - Herger, N., G. Abramowitz, S. Sherwood, R. Knutti, **O. Ang&#233;lil**, S. Sisson (2019), "Ensemble optimisation, multiple constraints and overconfidence: a case study with future Australian precipitation change." *Climate Dynamics.* [[DOI: 10.1007/s00382-019-04690-8]](https://link.springer.com/article/10.1007%2Fs00382-019-04690-8)
 
 - Stone, D. A., N. Christidis, C. Folland, S. Perkins-Kirkpatrick, J. Perlwitz, H. Shiogama, M. Wehner, P. Wolski, S. Cholia, H. Krishnan, D. Murray, **O. Ang&#233;lil**, U. Beyerle, A. Ciavarella, A. Dittus, X. Quan, M. Tadross (2019), "Experiment design of the International CLIVAR C20C+ detection and attribution project." *Weather and Climate Extremes.* [[DOI: 10.1016/j.wace.2019.100206]](https://www.sciencedirect.com/science/article/pii/S2212094719300027?via%3Dihub)
@@ -18,7 +18,7 @@ nocomments: true
 - Donat, M., **O. Ang&#233;lil**, AM. Ukkola (2019), "Intensification of precipitation extremes in the world’s humid and water-limited regions." *Environmental Research Letters.* [[DOI: 10.1088/1748-9326/ab1c8e]](https://iopscience.iop.org/article/10.1088/1748-9326/ab1c8e)
 
 <br>
-####2018
+#### 2018
 - Donat, M., A. Pitman, **O. Ang&#233;lil** (2018), "Understanding and reducing future uncertainty in midlatitude daily heat extremes via land surface feedback constraints." *Geophysical Research Letters.* [[DOI: 10.1029/2018GL079128]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL079128)
 
 - Ukkola, AM., A. Pitman, M. Donat, M. De Kauwe, **O. Ang&#233;lil** (2018), "Evaluating the contribution of land‐atmosphere coupling to heat extremes in CMIP5 models." *Geophysical Research Letters.* [[DOI: 10.1029/2018GL079102]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL079102)
@@ -33,7 +33,7 @@ nocomments: true
 - Herger, N., G. Abramowitz, R. Knutti, **O. Ang&#233;lil**, K. Lehmann, B. M. Sanderson (2018), "Selecting a climate model subset to optimise key ensemble properties." *Earth System Dynamics.* [[DOI: 10.5194/esd-9-135-2018]](https://www.earth-syst-dynam.net/9/135/2018/esd-9-135-2018-discussion.html)
 
 <br>
-####2017
+#### 2017
 
 - Ma, S., T. Zhou, **O. Ang&#233;lil**, H. Shiogama (2017), "Increased Chances of Drought in Southeastern Periphery of the Tibetan Plateau Induced by Anthropogenic Warming." *J. Climate.* [[DOI: 10.1175/JCLI-D-16-0636.1]](http://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0636.1)
 
@@ -46,14 +46,14 @@ nocomments: true
 - Risser, M., D. A. Stone, C. J. Paciorek, M. Wehner, **O. Ang&#233;lil** (2017), "Quantifying the effect of interannual ocean variability on the attribution of extreme climate events to human influence." *Climate Dynamics.* [[DOI: 10.1007/s00382-016-3492-x]](https://link.springer.com/article/10.1007%2Fs00382-016-3492-x) 
 
 <br>
-####2016
+#### 2016
 
 - **Ang&#233;lil, O.**, S. Perkins-Kirkpatrick, L. Alexander, D. A. Stone, M. Donat, M. Wehner, H. Shiogama, A. Ciavarella, N. Christidis (2016), "Comparing regional precipitation and temperature extremes in climate model and reanalysis products." *Weather and Climate Extremes.* [[DOI: 10.1016/j.wace.2016.07.001]](http://www.sciencedirect.com/science/article/pii/S2212094716300202) [**[PDF]**](../pdfs/Angelil_WACE_2016.pdf)
 
 - Lawal, K. A., A. A. Abatan,  **O. Ang&#233;lil**, E. Olaniyan, V. H. Olusoji, P. G. Oguntunde, B. Lamptey, B. J. Abiodun, H. Shiogama, M. F. Wehner, D. A. Stone (2016), "The late onset of the 2015 wet season in Nigeria." *Bulletin of the American Meteorological Society.* [[DOI: 10.1175/BAMS-D-16-0131.1]](http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0131.1)
 
 <br>
-####2014
+#### 2014
 
 - **Ang&#233;lil, O.**, D. A. Stone, and P. Pall (2014), "Attributing the probability of South African weather extremes to anthropogenic greenhouse gas emissions: Spatial characteristics." *Geophys. Res. Lett.* [[DOI: 10.1002/2014GL059760]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059760/abstract) [**[PDF]**](../pdfs/angelilb14grl.pdf)
 
