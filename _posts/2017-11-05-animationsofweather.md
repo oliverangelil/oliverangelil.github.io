@@ -9,6 +9,4 @@ image: "https://github.com/oliverangelil/oliverangelil.github.io/blob/master/pho
 
 2010-2014 seasonal temperature anomalies. At every time step, the temperature anomaly shown is relative to the normal temperature at a given grid-cell, for that particular time of year. More specifically, the anomaly is relative to the climatology for the month-long period 15 days ahead and 15 days behind the current time step. Ideally, view as full screen on youtube and in high definition.
 
-
-(https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog3_youtube_thumbnail.jpg?raw=true)](http://www.youtube.com/embed/E1HqSw21tAs)
-
+[![Animation of Weather](https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog3_youtube_thumbnail.jpg?raw=true)](http://www.youtube.com/embed/E1HqSw21tAs)
