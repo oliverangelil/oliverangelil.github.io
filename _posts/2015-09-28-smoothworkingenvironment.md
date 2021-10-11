@@ -4,7 +4,7 @@ title:  "A Smooth Working Environment"
 date:   2015-09-28 14:02:17
 categories: website blog jekyll github
 permalink: /posts/smooth-working-environment
-image: "image: "https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog2_laptop.jpg?raw=true"
+image: "https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog2_laptop.jpg?raw=true"
 
 ---
 
