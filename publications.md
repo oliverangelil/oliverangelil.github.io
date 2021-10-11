@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 nocomments: true
 ---
-List of publications up until PhD. Full manuscripts are provided for 1st author papers.
+List of publications up until and including PhD. Full manuscripts are provided for 1st author papers.
 
 <br>
 #### 2020
