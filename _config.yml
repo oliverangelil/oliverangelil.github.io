@@ -1,9 +1,9 @@
 # Site settings
-title: Nadja Herger
+title: Oliver Angelil
 url: "http://oliverangelil.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 description: >
-  This is Nadja Herger's personal blog.
+  This is Oliver Angelil's personal blog.
 
 # Your information
 email: olivermangelil@gmail.com
