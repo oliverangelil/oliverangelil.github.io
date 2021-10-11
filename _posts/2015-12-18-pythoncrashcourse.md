@@ -28,7 +28,7 @@ Download them with: *conda install netcdf4 numpy matplotlib basemap*
 List the installed packages in your conda environment: *conda list*
 
 ## 2 Reading in a NetCDF file
-First download an example NetCDF file from Oliver’s website: * wget http://snoek.ddns.net/~oliver/mysite/data/precip.nc -P ~/* 
+First download an example NetCDF file from Oliver’s website: wget http://kingklip.ddns.net/~oliver/share_files/precip.nc -P ~/ 
 
 In case wget doesn’t exist on your laptop, you can install it with: *sudo port install wget*
 once you have installed MacPorts. Alternatively, pasting the link above into your browser should automatically start the download of the NetCDF file.  
