@@ -17,9 +17,8 @@ profile_links:
   GitHub: "https://github.com/oliverangelil"
   LinkedIn: "https://www.linkedin.com/in/oliver-angelil"
   CV: "/documents/AngelilOM_curriculum_vitae.pdf{:target="\_blank"}"
-  # CV: "https://docs.google.com/viewer?url=https://github.com/oliverangelil/oliverangelil.github.io/blob/master/documents/AngelilOM_curriculum_vitae.pdf?raw=true"
 
-  # You can add more profile links above, or edit _includes/sidebar.html
+# You can add more profile links above, or edit _includes/sidebar.html
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
