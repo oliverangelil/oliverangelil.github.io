@@ -5,26 +5,58 @@ permalink: /publications/
 nocomments: true
 ---
 
-Here is a list of peer-reviewed scientific publications I lead or contributed to:
-### 2021
-* Norkute, M., **Herger, N.**, Michalak, L., Mulder, A., and Gao, S. (2021). [Towards Explainable AI: Assessing the Usefulness and Impact of Added Explainability Features in Legal Document Summarization](https://dl.acm.org/doi/10.1145/3411763.3443441). In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems, *CHI EA ’21*, New York, NY, USA. Association for Computing Machinery. [[Preprint]](https://mildanor.github.io/assets/NorkuteXAI.pdf)
 
-### 2019
-* **Herger, N.**, Abramowitz, G., Sherwood, S., Knutti, R., Angélil, O., and Sisson, S. A. (2019). Ensemble optimisation, multiple constraints and overconfidence: a case study with future Australian precipitation change. *Climate Dynamics*, 53(3), 1581-1596.
-* Abramowitz, G., **Herger, N.**, Gutmann, E., Hammerling, D., Knutti, R., Leduc, M., Lorenz, R., Pincus, R., and Schmidt, G. A. (2019). ESD Reviews: Model dependence in multi-model climate ensembles: weighting, sub-selection and out-of-sample testing. *Earth System Dynamics*, 10, 91-105, [doi:10.5194/esd-10-91-2019](https://www.earth-syst-dynam.net/10/91/2019/). [[PDF]](https://github.com/nherger/nherger.github.io/blob/master/documents/AbramowitzESD2019.pdf)
+####2020
+- Garcia-Villada, L., M. Donat, **O. Ang&#233;lil**, A. Taschetto (2020), "Temperature and precipitation responses to El Niño-Southern Oscillation in a hierarchy of datasets with different levels of observational constraints." *Climate Dynamics* [[DOI: 10.1007/s00382-020-05389-x]](https://link.springer.com/article/10.1007%2Fs00382-020-05389-x)
 
-### 2018
-* **Herger, N.**, Angélil, O., Abramowitz, G., Donat, M., Stone, D. A., and Lehmann, K. (2018). Calibrating climate model ensembles for assessing extremes in a changing climate. *Journal of Geophysical Research: Atmospheres*, 123(11), 5988-6004, [doi:10.1029/2018JD028549](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028549). [[PDF]](https://github.com/nherger/nherger.github.io/blob/master/documents/HergerJGR2018.pdf)
-* Lorenz, R., **Herger, N.**, Sedláček, J., Eyring, V., Fischer, E. M., and Knutti, R (2018). Prospects and caveats of weighting climate models for summer maximum temperature projections over North America. *Journal of Geophysical Research: Atmospheres*, 123(9), 4509-4526, [doi:10.1029/2017JD027992](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD027992).
-* Ukkola, A. M., Pitman, A. J., De Kauwe, M. G., Abramowitz, G., **Herger, N.**, Evans, J. P., and Decker, M. (2018). Evaluating CMIP5 model agreement for multiple drought metrics. *Journal of Hydrometeorology*, 19(6), 969-988, [doi:10.1175/JHM-D-17-0099.1](https://journals.ametsoc.org/doi/abs/10.1175/JHM-D-17-0099.1).
-* **Herger, N.**, Abramowitz, G., Knutti, R., Angélil, O., Lehmann, K., and Sanderson, B. M. (2018). Selecting a climate model subset to optimise key ensemble properties. *Earth System Dynamics*, 9(1), 135-151, [doi:10.5194/esd-9-135-2018](https://www.earth-syst-dynam.net/9/135/2018/). [[PDF]](https://github.com/nherger/nherger.github.io/blob/master/documents/HergerESD2018.pdf)
+<br>
+####2019
+- Herger, N., G. Abramowitz, S. Sherwood, R. Knutti, **O. Ang&#233;lil**, S. Sisson (2019), "Ensemble optimisation, multiple constraints and overconfidence: a case study with future Australian precipitation change." *Climate Dynamics.* [[DOI: 10.1007/s00382-019-04690-8]](https://link.springer.com/article/10.1007%2Fs00382-019-04690-8)
 
-### 2015
-* **Herger, N.**, Sanderson, B. M., and Knutti, R. (2015). Improved pattern scaling approaches for the use in climate impact studies. *Geophysical Research Letters*, 42(9), 3486-3494, [doi:10.1002/2015GL063569](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL063569). [[PDF]](https://github.com/nherger/nherger.github.io/blob/master/documents/HergerGRL2015.pdf)
+- Stone, D. A., N. Christidis, C. Folland, S. Perkins-Kirkpatrick, J. Perlwitz, H. Shiogama, M. Wehner, P. Wolski, S. Cholia, H. Krishnan, D. Murray, **O. Ang&#233;lil**, U. Beyerle, A. Ciavarella, A. Dittus, X. Quan, M. Tadross (2019), "Experiment design of the International CLIVAR C20C+ detection and attribution project." *Weather and Climate Extremes.* [[DOI: 10.1016/j.wace.2019.100206]](https://www.sciencedirect.com/science/article/pii/S2212094719300027?via%3Dihub)
 
-### 2014
-* Storelvmo, T., Boos, W. R., and **Herger, N.** (2014). Cirrus cloud seeding: a climate engineering mechanism with reduced side effects? *Phil. Trans. R. Soc. A*, 372(2031), 20140116, [doi:10.1098/rsta.2014.0116](http://rsta.royalsocietypublishing.org/content/372/2031/20140116).
-* Storelvmo, T. and **Herger, N.** (2014). Cirrus cloud susceptibility to the injection of ice nuclei in the upper troposphere. *Journal of Geophysical Research: Atmospheres*, 119(5), 2375-2389, [doi:10.1002/2013JD020816](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2013JD020816).
+- Donat, M., **O. Ang&#233;lil**, AM. Ukkola (2019), "Intensification of precipitation extremes in the world’s humid and water-limited regions." *Environmental Research Letters.* [[DOI: 10.1088/1748-9326/ab1c8e]](https://iopscience.iop.org/article/10.1088/1748-9326/ab1c8e)
+
+<br>
+####2018
+- Donat, M., A. Pitman, **O. Ang&#233;lil** (2018), "Understanding and reducing future uncertainty in midlatitude daily heat extremes via land surface feedback constraints." *Geophysical Research Letters.* [[DOI: 10.1029/2018GL079128]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL079128)
+
+- Ukkola, AM., A. Pitman, M. Donat, M. De Kauwe, **O. Ang&#233;lil** (2018), "Evaluating the contribution of land‐atmosphere coupling to heat extremes in CMIP5 models." *Geophysical Research Letters.* [[DOI: 10.1029/2018GL079102]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL079102)
 
 
-You can find the full list on <a href="https://scholar.google.com.au/citations?user=pY9LckMAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+- Herger, N., **O. Ang&#233;lil**, G. Abramowitz, M. Donat, D. A. Stone, K. Lehmann (2018), "Calibrating climate model ensembles for assessing extremes in a changing climate." *J. Geophysical Research.* [[DOI: 10.1029/2018JD028549]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028549)
+
+- **Ang&#233;lil, O.**, D. A. Stone, S. Perkins-Kirkpatrick, L. Alexander, M. Wehner, H. Shiogama, P. Wolski, A. Ciavarella, N. Christidis (2018), "On the nonlinearity of spatial scales in extreme weather attribution statements." *Climate Dynamics.* [[DOI: 10.1007/s00382-017-3768-9]](https://link.springer.com/article/10.1007/s00382-017-3768-9) [**[PDF]**](../pdfs/angelil_cd_2018.pdf) 
+
+- Stone, D. A., M. Risser, **O. Ang&#233;lil**, M. Wehner, S. Cholia, N. Keen, H. Krishnan, T. O'Brien, W. Collins (2018), "A basis set for exploration of sensitivity to prescribed ocean conditions for estimating human contributions to extreme weather in CAM5.1-1degree" *Weather and Climate Extremes* [[DOI: 10.1016/j.wace.2017.12.003]](https://www.sciencedirect.com/science/article/pii/S2212094717301147)
+
+- Herger, N., G. Abramowitz, R. Knutti, **O. Ang&#233;lil**, K. Lehmann, B. M. Sanderson (2018), "Selecting a climate model subset to optimise key ensemble properties." *Earth System Dynamics.* [[DOI: 10.5194/esd-9-135-2018]](https://www.earth-syst-dynam.net/9/135/2018/esd-9-135-2018-discussion.html)
+
+<br>
+####2017
+
+- Ma, S., T. Zhou, **O. Ang&#233;lil**, H. Shiogama (2017), "Increased Chances of Drought in Southeastern Periphery of the Tibetan Plateau Induced by Anthropogenic Warming." *J. Climate.* [[DOI: 10.1175/JCLI-D-16-0636.1]](http://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0636.1)
+
+- Ma, S., T. Zhou, D. A. Stone, **O. Ang&#233;lil**, H. Shiogama (2017), "Attribution of the July–August 2013 heat event in Central and Eastern China to anthropogenic greenhouse gas emissions." *Environmental Research Letters.* [[DOI: 10.1088/1748-9326/aa69d2]](http://iopscience.iop.org/article/10.1088/1748-9326/aa69d2/meta)
+
+- Perkins-Kirkpatrick, S., E. Fischer, **O. Ang&#233;lil**, P. Gibson (2017), "The influence of internal climate variability on heatwave frequency trends." *Environmental Research Letters.* [[DOI: 10.1088/1748-9326/aa63fe]](http://iopscience.iop.org/article/10.1088/1748-9326/aa63fe/pdf)
+
+- **Ang&#233;lil, O.**, D. A. Stone, M. Wehner, C. J. Paciorek, H. Krishnan and W. Collins  (2017), "An independent assessment of anthropogenic attribution statements for recent extreme weather events." *J. Climate.* [[DOI: 10.1175/JCLI-D-16-0077.1]](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0077.1) [**[PDF]**](../pdfs/angelil_joc_2017.pdf)
+
+- Risser, M., D. A. Stone, C. J. Paciorek, M. Wehner, **O. Ang&#233;lil** (2017), "Quantifying the effect of interannual ocean variability on the attribution of extreme climate events to human influence." *Climate Dynamics.* [[DOI: 10.1007/s00382-016-3492-x]](https://link.springer.com/article/10.1007%2Fs00382-016-3492-x) 
+
+<br>
+####2016
+
+- **Ang&#233;lil, O.**, S. Perkins-Kirkpatrick, L. Alexander, D. A. Stone, M. Donat, M. Wehner, H. Shiogama, A. Ciavarella, N. Christidis (2016), "Comparing regional precipitation and temperature extremes in climate model and reanalysis products." *Weather and Climate Extremes.* [[DOI: 10.1016/j.wace.2016.07.001]](http://www.sciencedirect.com/science/article/pii/S2212094716300202) [**[PDF]**](../pdfs/Angelil_WACE_2016.pdf)
+
+- Lawal, K. A., A. A. Abatan,  **O. Ang&#233;lil**, E. Olaniyan, V. H. Olusoji, P. G. Oguntunde, B. Lamptey, B. J. Abiodun, H. Shiogama, M. F. Wehner, D. A. Stone (2016), "The late onset of the 2015 wet season in Nigeria." *Bulletin of the American Meteorological Society.* [[DOI: 10.1175/BAMS-D-16-0131.1]](http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0131.1)
+
+<br>
+####2014
+
+- **Ang&#233;lil, O.**, D. A. Stone, and P. Pall (2014), "Attributing the probability of South African weather extremes to anthropogenic greenhouse gas emissions: Spatial characteristics." *Geophys. Res. Lett.* [[DOI: 10.1002/2014GL059760]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059760/abstract) [**[PDF]**](../pdfs/angelilb14grl.pdf)
+
+- **Ang&#233;lil, O.**, D. A. Stone, M. Tadross, F. Tummon, M.Wehner, and R. Knutti (2014), "Attribution of extreme weather to anthropogenic greenhouse gas emissions: Sensitivity to spatial and temporal scales.", *Geophys. Res. Lett.* [[10.1002/2014GL059234]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059234/abstract) [**[PDF]**](../pdfs/angelila14grl.pdf)
+
+- Abiodun, B., **O. Ang&#233;lil**, R. Cerezo Mota, K. Lawal, C. Lennard, D. Stone, M. Tadross (2014), "Predictability and attribution of South African seasonal climate." [**[PDF]**](http://www.csag.uct.ac.za/~daithi/K5-2067_report-final.pdf)
