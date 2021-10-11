@@ -8,7 +8,7 @@ description: >
 # Your information
 email: olivermangelil@gmail.com
 author: Oliver Angelil
-avatar: "https://github.com/nherger/blog/blob/gh-pages/photos/portrait.jpg?raw=true"  #"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "https://github.com/oliverangelil/blog/blob/gh-pages/photos/portrait.jpg?raw=true"  #"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: Welcome to my site! I hope you find something interesting here.
 #twitter_username: twitter_username
 #github_username:  github_username
@@ -21,7 +21,7 @@ profile_links:
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: https-nherger-github-io   # get one: https://disqus.com/admin/signup/
+disqus_shortname: https-oliverangelil-github-io   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 excerpt_separator: <!--more-->
