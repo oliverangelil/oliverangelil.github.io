@@ -4,8 +4,9 @@ title: Publications
 permalink: /publications/
 nocomments: true
 ---
+My publications from bachelors to PhD during my climate science career. The full manuscript is provided for 1st author papers. 
 
-
+<br>
 #### 2020
 - Garcia-Villada, L., M. Donat, **O. Ang&#233;lil**, A. Taschetto (2020), "Temperature and precipitation responses to El Niño-Southern Oscillation in a hierarchy of datasets with different levels of observational constraints." *Climate Dynamics* [[DOI: 10.1007/s00382-020-05389-x]](https://link.springer.com/article/10.1007%2Fs00382-020-05389-x)
 
@@ -41,23 +42,23 @@ nocomments: true
 
 - Perkins-Kirkpatrick, S., E. Fischer, **O. Ang&#233;lil**, P. Gibson (2017), "The influence of internal climate variability on heatwave frequency trends." *Environmental Research Letters.* [[DOI: 10.1088/1748-9326/aa63fe]](http://iopscience.iop.org/article/10.1088/1748-9326/aa63fe/pdf)
 
-- **Ang&#233;lil, O.**, D. A. Stone, M. Wehner, C. J. Paciorek, H. Krishnan and W. Collins  (2017), "An independent assessment of anthropogenic attribution statements for recent extreme weather events." *J. Climate.* [[DOI: 10.1175/JCLI-D-16-0077.1]](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0077.1) [**[PDF]**](/documents/angelil_joc_2017.pdf)
+- **Ang&#233;lil, O.**, D. A. Stone, M. Wehner, C. J. Paciorek, H. Krishnan and W. Collins  (2017), "An independent assessment of anthropogenic attribution statements for recent extreme weather events." *J. Climate.* [[DOI: 10.1175/JCLI-D-16-0077.1]](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0077.1) [**[PDF]**](/documents/angelil_joc_2017.pdf){:target="\_blank"}
 
 - Risser, M., D. A. Stone, C. J. Paciorek, M. Wehner, **O. Ang&#233;lil** (2017), "Quantifying the effect of interannual ocean variability on the attribution of extreme climate events to human influence." *Climate Dynamics.* [[DOI: 10.1007/s00382-016-3492-x]](https://link.springer.com/article/10.1007%2Fs00382-016-3492-x) 
 
 <br>
 #### 2016
 
-- **Ang&#233;lil, O.**, S. Perkins-Kirkpatrick, L. Alexander, D. A. Stone, M. Donat, M. Wehner, H. Shiogama, A. Ciavarella, N. Christidis (2016), "Comparing regional precipitation and temperature extremes in climate model and reanalysis products." *Weather and Climate Extremes.* [[DOI: 10.1016/j.wace.2016.07.001]](http://www.sciencedirect.com/science/article/pii/S2212094716300202) [**[PDF]**](/documents/angelil_wace_2016.pdf)
+- **Ang&#233;lil, O.**, S. Perkins-Kirkpatrick, L. Alexander, D. A. Stone, M. Donat, M. Wehner, H. Shiogama, A. Ciavarella, N. Christidis (2016), "Comparing regional precipitation and temperature extremes in climate model and reanalysis products." *Weather and Climate Extremes.* [[DOI: 10.1016/j.wace.2016.07.001]](http://www.sciencedirect.com/science/article/pii/S2212094716300202) [**[PDF]**](/documents/angelil_wace_2016.pdf){:target="\_blank"}
 
 - Lawal, K. A., A. A. Abatan,  **O. Ang&#233;lil**, E. Olaniyan, V. H. Olusoji, P. G. Oguntunde, B. Lamptey, B. J. Abiodun, H. Shiogama, M. F. Wehner, D. A. Stone (2016), "The late onset of the 2015 wet season in Nigeria." *Bulletin of the American Meteorological Society.* [[DOI: 10.1175/BAMS-D-16-0131.1]](http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-16-0131.1)
 
 <br>
 #### 2014
 
-- **Ang&#233;lil, O.**, D. A. Stone, and P. Pall (2014), "Attributing the probability of South African weather extremes to anthropogenic greenhouse gas emissions: Spatial characteristics." *Geophys. Res. Lett.* [[DOI: 10.1002/2014GL059760]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059760/abstract) [**[PDF]**](/documents/angelilb14grl.pdf)
+- **Ang&#233;lil, O.**, D. A. Stone, and P. Pall (2014), "Attributing the probability of South African weather extremes to anthropogenic greenhouse gas emissions: Spatial characteristics." *Geophys. Res. Lett.* [[DOI: 10.1002/2014GL059760]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059760/abstract) [**[PDF]**](/documents/angelilb14grl.pdf){:target="\_blank"}
 
-- **Ang&#233;lil, O.**, D. A. Stone, M. Tadross, F. Tummon, M.Wehner, and R. Knutti (2014), "Attribution of extreme weather to anthropogenic greenhouse gas emissions: Sensitivity to spatial and temporal scales.", *Geophys. Res. Lett.* [[10.1002/2014GL059234]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059234/abstract) [**[PDF]**](/documents/angelila14grl.pdf)
+- **Ang&#233;lil, O.**, D. A. Stone, M. Tadross, F. Tummon, M.Wehner, and R. Knutti (2014), "Attribution of extreme weather to anthropogenic greenhouse gas emissions: Sensitivity to spatial and temporal scales.", *Geophys. Res. Lett.* [[10.1002/2014GL059234]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059234/abstract) [**[PDF]**](/documents/angelila14grl.pdf){:target="\_blank"}
 
 - Abiodun, B., **O. Ang&#233;lil**, R. Cerezo Mota, K. Lawal, C. Lennard, D. Stone, M. Tadross (2014), "Predictability and attribution of South African seasonal climate."
 
