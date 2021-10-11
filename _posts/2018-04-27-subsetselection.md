@@ -34,7 +34,7 @@ The results are impressive. The RMSE remains fairly low until the end of the 21s
 ### Each Model as Truth
 Perhaps we got lucky? We can rotate through each of the 21 models, and use each as the "truth" (i.e. response variable), training on the 1941-1970 climatology and testing until the end of the 21st century. We now result in 21 lines showing prediction skill relative to the MMM:
 
-![lasso_rmse_impr](https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog6_lasso_rmsi_impr.png?raw=true)
+![lasso_rmse_impr](https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog6_lasso_rmse_impr.png?raw=true)
 
 We now see that it is difficult to predict end of century climatologies for 3 of the 21 models. Perhaps there is some non-linear response to greenhouse-gas forcing that the statistical model could not detect in the 1941-1970 period. However, overall, temperature in 18 of the models can be predicted until the end of the century with much greater accuracy than using the MMM. 
 
