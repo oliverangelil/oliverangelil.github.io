@@ -30,7 +30,6 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Publications: /publications/
-    Speaking Engagements: /speaking/
 #    Category: /category/
 #    Donate: https://laobubu.net/donate.html
 
