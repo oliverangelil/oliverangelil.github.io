@@ -26,7 +26,7 @@ nocomments: true
 
 - Herger, N., **O. Ang&#233;lil**, G. Abramowitz, M. Donat, D. A. Stone, K. Lehmann (2018), "Calibrating climate model ensembles for assessing extremes in a changing climate." *J. Geophysical Research.* [[DOI: 10.1029/2018JD028549]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD028549)
 
-- **Ang&#233;lil, O.**, D. A. Stone, S. Perkins-Kirkpatrick, L. Alexander, M. Wehner, H. Shiogama, P. Wolski, A. Ciavarella, N. Christidis (2018), "On the nonlinearity of spatial scales in extreme weather attribution statements." *Climate Dynamics.* [[DOI: 10.1007/s00382-017-3768-9]](https://link.springer.com/article/10.1007/s00382-017-3768-9) [**[PDF]**](../pdfs/angelil_cd_2018.pdf) 
+- **Ang&#233;lil, O.**, D. A. Stone, S. Perkins-Kirkpatrick, L. Alexander, M. Wehner, H. Shiogama, P. Wolski, A. Ciavarella, N. Christidis (2018), "On the nonlinearity of spatial scales in extreme weather attribution statements." *Climate Dynamics.* [[DOI: 10.1007/s00382-017-3768-9]](https://link.springer.com/article/10.1007/s00382-017-3768-9) [**[PDF]**](/documents/angelil_cd_2018.pdf) 
 
 - Stone, D. A., M. Risser, **O. Ang&#233;lil**, M. Wehner, S. Cholia, N. Keen, H. Krishnan, T. O'Brien, W. Collins (2018), "A basis set for exploration of sensitivity to prescribed ocean conditions for estimating human contributions to extreme weather in CAM5.1-1degree" *Weather and Climate Extremes* [[DOI: 10.1016/j.wace.2017.12.003]](https://www.sciencedirect.com/science/article/pii/S2212094717301147)
 
@@ -59,4 +59,17 @@ nocomments: true
 
 - **Ang&#233;lil, O.**, D. A. Stone, M. Tadross, F. Tummon, M.Wehner, and R. Knutti (2014), "Attribution of extreme weather to anthropogenic greenhouse gas emissions: Sensitivity to spatial and temporal scales.", *Geophys. Res. Lett.* [[10.1002/2014GL059234]](http://onlinelibrary.wiley.com/doi/10.1002/2014GL059234/abstract) [**[PDF]**](../pdfs/angelila14grl.pdf)
 
-- Abiodun, B., **O. Ang&#233;lil**, R. Cerezo Mota, K. Lawal, C. Lennard, D. Stone, M. Tadross (2014), "Predictability and attribution of South African seasonal climate." [**[PDF]**](http://www.csag.uct.ac.za/~daithi/K5-2067_report-final.pdf)
+- Abiodun, B., **O. Ang&#233;lil**, R. Cerezo Mota, K. Lawal, C. Lennard, D. Stone, M. Tadross (2014), "Predictability and attribution of South African seasonal climate."
+
+
+
+
+
+
+
+
+
+
+
+
+
