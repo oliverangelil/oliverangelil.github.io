@@ -4,7 +4,7 @@ title:  "Volunteering as a Data Scientist in Rwanda"
 date:   2021-11-28 09:53:02
 categories: data-science volunteering
 permalink: /posts/volunteering
-image: "https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog8_group.jpeg?raw=true"
+image: "https://github.com/oliverangelil/oliverangelil.github.io/blob/master/photos/blog8_group_photo.jpeg?raw=true"
 ---
 In the last 10 years I have worked in Data Science, growing in experience as each year passed. These 10 years have been mostly about “self improvement”. I wanted to finally enter more of a “giving back” phase of my life by volunteering to impart my knowledge onto young adults that have not had equal opportunity, but still incredible potential.
 
