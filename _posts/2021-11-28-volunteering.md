@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can we Blame Humans?"
+title:  "Volunteering as a Data Scientist in Rwanda!"
 date:   2021-11-28 09:53:02
 categories: python climate science
 permalink: /posts/volunteering
