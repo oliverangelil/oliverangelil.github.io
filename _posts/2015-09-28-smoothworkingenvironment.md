@@ -184,7 +184,7 @@ Another little one I use is the following because I find the "ls" command alone 
 
 If you'd like to speed up the ssh login process so no password is needed or so you can set up cronjobs (scripts that automatically execute at regular intervals) to, for example, automate backing-up of important work you're doing on your local machine (see next section), then follow these instructions. In the command line/terminal on your local machine enter the following:
 
-`cd ~/.ssh; ssh-keygen -t rsa -f id_rsa -P ""`
+`cd ~/.ssh; ssh-keygen -t ed25519 -f id_rsa -P ""`
 
 Copy the newly created "id_rsa.pub" file to the server:
 `scp id_rsa.pub username@server.net:~/`
