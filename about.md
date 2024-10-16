@@ -11,6 +11,6 @@ Welcome to my website! I am half South African and half Swiss - I grew up in Cap
 My PhD (undertaken in Sydney, Australia) focused on making predictions of future rainfall and temperature extremes. Since climate models are imperfect, we use statistical methods to select subsets of models or weight models differently, such that they collectively compare well to observations in-sample. If results are satisfactory after cross-validation (in sample) or model-as-truth experiments (out-of-sample), we then apply our fitted statistical model out-of-sample (into the future). 
 
 Up until the end of my PhD I led and co-authored a range of peer-reviewed articles which are published in scientific journals. The full list can be found [here](../publications).
-You can also find a copy of my CV [here](documents/AngelilOM_curriculum_vitae.pdf).
+You can also find a copy of my CV [here](https://docs.google.com/document/d/1L71CJb1tgX40OEZzY1ReI2hjKN5Y9JVrQTCUZhpr52A/edit?usp=sharing).
 
 
